@@ -1,0 +1,30 @@
+.footer {
+  position: relative;
+  padding: 6rem 2rem;
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-width: 100%;
+}
+
+.footer__content__logo {
+  position: relative;
+  display: inline-block;
+  left: 765px;
+  bottom: 20px;
+}
+
+.footer__content__menus {
+  display: grid;
+  position: relative;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  overflow: hidden;
+}
+
+.footer__index {
+  display: block;
+  position: relative;
+  padding: 7px;
+  left: 240px;
+}

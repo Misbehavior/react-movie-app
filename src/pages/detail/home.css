@@ -1,0 +1,7 @@
+.small {
+  display: inline-block;
+  position: relative;
+  max-width: 100%;
+  left: 91%;
+  bottom: 34px;
+}
