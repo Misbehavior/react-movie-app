@@ -2,9 +2,9 @@
 
 You can view this project [here](https://react-movie-website-app.netlify.app/).
 
-![](../readme-images/2d3f7d8a446de8c19db5dd1b2c1e5ef8.jpg)
-![](../readme-images/f4dc597e4d289bd4a43298d2190fdc0c.jpg)
-![](../readme-images/87c5c9e058e10c04b6cd27b9820075bf.jpg)
+![](./readme-images/2d3f7d8a446de8c19db5dd1b2c1e5ef8.jpg)
+![](./readme-images/f4dc597e4d289bd4a43298d2190fdc0c.jpg)
+![](./readme-images/87c5c9e058e10c04b6cd27b9820075bf.jpg)
 
 ## Built using:
 
