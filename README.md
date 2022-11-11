@@ -8,11 +8,17 @@ You can view this project [here](https://react-movie-website-app.netlify.app/).
 
 ## Built using:
 
-- React
-- Axios
-- Sass
-- Swiper
-- API https://www.themoviedb.org
+Frontend:
+
+- [React](https://reactjs.org)
+- [Axios](https://axios-http.com)
+- [Sass](https://sass-lang.com)
+- [Swiper](https://swiperjs.com)
+- [Movie API](https://www.themoviedb.org)
+
+Deployment:
+
+* [Netlify](https://www.netlify.com)
 
 ## Setup
 
